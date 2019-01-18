@@ -1,0 +1,9 @@
+program coucou;
+
+uses crt;
+
+BEGIN
+clrscr;
+writln ('hello world');
+END.
+

@@ -1,0 +1,4 @@
+#commentaire
+#liste des fichier a igorer
+*.exe
+*.o
